@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kdharanmani31/leetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/kdharanmani31/leetCode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/kdharanmani31/leetCode/tree/master/0704-binary-search) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kdharanmani31/leetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/kdharanmani31/leetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -20,10 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/kdharanmani31/leetCode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/kdharanmani31/leetCode/tree/master/0704-binary-search) |
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/kdharanmani31/leetCode/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kdharanmani31/leetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/kdharanmani31/leetCode/tree/master/1512-number-of-good-pairs) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/kdharanmani31/leetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -35,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kdharanmani31/leetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/kdharanmani31/leetCode/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/kdharanmani31/leetCode/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
@@ -49,4 +53,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kdharanmani31/leetCode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/kdharanmani31/leetCode/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/kdharanmani31/leetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
