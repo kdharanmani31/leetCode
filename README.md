@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/kdharanmani31/leetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/kdharanmani31/leetCode/tree/master/0198-house-robber) |
+| [0219-contains-duplicate-ii](https://github.com/kdharanmani31/leetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/kdharanmani31/leetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/kdharanmani31/leetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/kdharanmani31/leetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kdharanmani31/leetCode/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/kdharanmani31/leetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/kdharanmani31/leetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/kdharanmani31/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1512-number-of-good-pairs](https://github.com/kdharanmani31/leetCode/tree/master/1512-number-of-good-pairs) |
@@ -81,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/kdharanmani31/leetCode/tree/master/0231-power-of-two) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/kdharanmani31/leetCode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
