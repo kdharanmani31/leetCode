@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/kdharanmani31/leetCode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kdharanmani31/leetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/kdharanmani31/leetCode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/kdharanmani31/leetCode/tree/master/0198-house-robber) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/kdharanmani31/leetCode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kdharanmani31/leetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/kdharanmani31/leetCode/tree/master/0169-majority-element) |
 ## Sorting
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/kdharanmani31/leetCode/tree/master/0053-maximum-subarray) |
 | [0198-house-robber](https://github.com/kdharanmani31/leetCode/tree/master/0198-house-robber) |
 ## Recursion
 |  |
