@@ -102,15 +102,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kdharanmani31/leetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/kdharanmani31/leetCode/tree/master/0110-balanced-binary-tree) |
+| [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/kdharanmani31/leetCode/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/kdharanmani31/leetCode/tree/master/0110-balanced-binary-tree) |
+| [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/kdharanmani31/leetCode/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kdharanmani31/leetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/kdharanmani31/leetCode/tree/master/0110-balanced-binary-tree) |
+| [0971-flip-binary-tree-to-match-preorder-traversal](https://github.com/kdharanmani31/leetCode/tree/master/0971-flip-binary-tree-to-match-preorder-traversal) |
 ## Binary Search Tree
 |  |
 | ------- |
