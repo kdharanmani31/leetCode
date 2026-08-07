@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/kdharanmani31/leetCode/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/kdharanmani31/leetCode/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/kdharanmani31/leetCode/tree/master/0905-sort-array-by-parity) |
+| [0976-largest-perimeter-triangle](https://github.com/kdharanmani31/leetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kdharanmani31/leetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/kdharanmani31/leetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/kdharanmani31/leetCode/tree/master/1512-number-of-good-pairs) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/kdharanmani31/leetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kdharanmani31/leetCode/tree/master/0268-missing-number) |
+| [0976-largest-perimeter-triangle](https://github.com/kdharanmani31/leetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1137-n-th-tribonacci-number](https://github.com/kdharanmani31/leetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kdharanmani31/leetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kdharanmani31/leetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/kdharanmani31/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/kdharanmani31/leetCode/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/kdharanmani31/leetCode/tree/master/0905-sort-array-by-parity) |
+| [0976-largest-perimeter-triangle](https://github.com/kdharanmani31/leetCode/tree/master/0976-largest-perimeter-triangle) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/kdharanmani31/leetCode/tree/master/0680-valid-palindrome-ii) |
+| [0976-largest-perimeter-triangle](https://github.com/kdharanmani31/leetCode/tree/master/0976-largest-perimeter-triangle) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kdharanmani31/leetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
@@ -156,4 +160,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/kdharanmani31/leetCode/tree/master/1137-n-th-tribonacci-number) |
+## Quicksort
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/kdharanmani31/leetCode/tree/master/0976-largest-perimeter-triangle) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/kdharanmani31/leetCode/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
