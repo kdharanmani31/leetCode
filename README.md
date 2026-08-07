@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/kdharanmani31/leetCode/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/kdharanmani31/leetCode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/kdharanmani31/leetCode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/kdharanmani31/leetCode/tree/master/0367-valid-perfect-square) |
 | [0976-largest-perimeter-triangle](https://github.com/kdharanmani31/leetCode/tree/master/0976-largest-perimeter-triangle) |
