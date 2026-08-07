@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kdharanmani31/leetCode/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/kdharanmani31/leetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/kdharanmani31/leetCode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/kdharanmani31/leetCode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/kdharanmani31/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [1512-number-of-good-pairs](https://github.com/kdharanmani31/leetCode/tree/master/1512-number-of-good-pairs) |
 ## Counting
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0290-word-pattern](https://github.com/kdharanmani31/leetCode/tree/master/0290-word-pattern) |
 | [0482-license-key-formatting](https://github.com/kdharanmani31/leetCode/tree/master/0482-license-key-formatting) |
 | [0680-valid-palindrome-ii](https://github.com/kdharanmani31/leetCode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/kdharanmani31/leetCode/tree/master/0709-to-lower-case) |
