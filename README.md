@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/kdharanmani31/leetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kdharanmani31/leetCode/tree/master/0268-missing-number) |
+| [1137-n-th-tribonacci-number](https://github.com/kdharanmani31/leetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/kdharanmani31/leetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kdharanmani31/leetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/kdharanmani31/leetCode/tree/master/1512-number-of-good-pairs) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/kdharanmani31/leetCode/tree/master/0053-maximum-subarray) |
 | [0198-house-robber](https://github.com/kdharanmani31/leetCode/tree/master/0198-house-robber) |
+| [1137-n-th-tribonacci-number](https://github.com/kdharanmani31/leetCode/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -143,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/kdharanmani31/leetCode/tree/master/0303-range-sum-query-immutable) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/kdharanmani31/leetCode/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
