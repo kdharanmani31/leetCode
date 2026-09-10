@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/kdharanmani31/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/kdharanmani31/leetCode/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/kdharanmani31/leetCode/tree/master/0704-binary-search) |
+| [0896-monotonic-array](https://github.com/kdharanmani31/leetCode/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/kdharanmani31/leetCode/tree/master/0905-sort-array-by-parity) |
 | [0976-largest-perimeter-triangle](https://github.com/kdharanmani31/leetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kdharanmani31/leetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
