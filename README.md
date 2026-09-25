@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/kdharanmani31/leetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/kdharanmani31/leetCode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/kdharanmani31/leetCode/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/kdharanmani31/leetCode/tree/master/0724-find-pivot-index) |
 | [0860-lemonade-change](https://github.com/kdharanmani31/leetCode/tree/master/0860-lemonade-change) |
 | [0883-projection-area-of-3d-shapes](https://github.com/kdharanmani31/leetCode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0896-monotonic-array](https://github.com/kdharanmani31/leetCode/tree/master/0896-monotonic-array) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/kdharanmani31/leetCode/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/kdharanmani31/leetCode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/kdharanmani31/leetCode/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
