@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/kdharanmani31/leetCode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/kdharanmani31/leetCode/tree/master/0771-jewels-and-stones) |
 | [1002-find-common-characters](https://github.com/kdharanmani31/leetCode/tree/master/1002-find-common-characters) |
+| [1021-remove-outermost-parentheses](https://github.com/kdharanmani31/leetCode/tree/master/1021-remove-outermost-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kdharanmani31/leetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
 |  |
@@ -218,4 +219,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0883-projection-area-of-3d-shapes](https://github.com/kdharanmani31/leetCode/tree/master/0883-projection-area-of-3d-shapes) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/kdharanmani31/leetCode/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/kdharanmani31/leetCode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
