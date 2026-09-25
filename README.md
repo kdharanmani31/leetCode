@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/kdharanmani31/leetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/kdharanmani31/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/kdharanmani31/leetCode/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/kdharanmani31/leetCode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/kdharanmani31/leetCode/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/kdharanmani31/leetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/kdharanmani31/leetCode/tree/master/0922-sort-array-by-parity-ii) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/kdharanmani31/leetCode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/kdharanmani31/leetCode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/kdharanmani31/leetCode/tree/master/0771-jewels-and-stones) |
+| [0844-backspace-string-compare](https://github.com/kdharanmani31/leetCode/tree/master/0844-backspace-string-compare) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/kdharanmani31/leetCode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1002-find-common-characters](https://github.com/kdharanmani31/leetCode/tree/master/1002-find-common-characters) |
 | [1021-remove-outermost-parentheses](https://github.com/kdharanmani31/leetCode/tree/master/1021-remove-outermost-parentheses) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/kdharanmani31/leetCode/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/kdharanmani31/leetCode/tree/master/1929-concatenation-of-array) |
 ## Counting Sort
 |  |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/kdharanmani31/leetCode/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/kdharanmani31/leetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
