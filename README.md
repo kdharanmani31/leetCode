@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/kdharanmani31/leetCode/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/kdharanmani31/leetCode/tree/master/0905-sort-array-by-parity) |
 | [0976-largest-perimeter-triangle](https://github.com/kdharanmani31/leetCode/tree/master/0976-largest-perimeter-triangle) |
+| [1002-find-common-characters](https://github.com/kdharanmani31/leetCode/tree/master/1002-find-common-characters) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/kdharanmani31/leetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kdharanmani31/leetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/kdharanmani31/leetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/kdharanmani31/leetCode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/kdharanmani31/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0771-jewels-and-stones](https://github.com/kdharanmani31/leetCode/tree/master/0771-jewels-and-stones) |
+| [1002-find-common-characters](https://github.com/kdharanmani31/leetCode/tree/master/1002-find-common-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/kdharanmani31/leetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/kdharanmani31/leetCode/tree/master/1512-number-of-good-pairs) |
 ## Counting
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/kdharanmani31/leetCode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/kdharanmani31/leetCode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/kdharanmani31/leetCode/tree/master/0771-jewels-and-stones) |
+| [1002-find-common-characters](https://github.com/kdharanmani31/leetCode/tree/master/1002-find-common-characters) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kdharanmani31/leetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
 |  |
