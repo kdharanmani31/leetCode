@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/kdharanmani31/leetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/kdharanmani31/leetCode/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/kdharanmani31/leetCode/tree/master/0704-binary-search) |
+| [0860-lemonade-change](https://github.com/kdharanmani31/leetCode/tree/master/0860-lemonade-change) |
 | [0883-projection-area-of-3d-shapes](https://github.com/kdharanmani31/leetCode/tree/master/0883-projection-area-of-3d-shapes) |
 | [0896-monotonic-array](https://github.com/kdharanmani31/leetCode/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/kdharanmani31/leetCode/tree/master/0905-sort-array-by-parity) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/kdharanmani31/leetCode/tree/master/0680-valid-palindrome-ii) |
+| [0860-lemonade-change](https://github.com/kdharanmani31/leetCode/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/kdharanmani31/leetCode/tree/master/0976-largest-perimeter-triangle) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/kdharanmani31/leetCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
